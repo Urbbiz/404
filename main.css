@@ -3,30 +3,44 @@ body {
 }
 main {
     background-color: turquoise;
+    display: inline-block;
     width: cal( ( 100% - 1400px ) / 2);
+    float: left;
 
 }
 
 img {
+    display: inline-block;
+    float: left;
 
 }
 
 div {
+    display: inline-block;
+    float: left;
 
 }
 
 h1 {
+    display: inline-block;
+    float: left;
 
 }
 
 h2 {
+    display: inline-block;
+    float: left;
 
 }
 
 p {
+    display: inline-block;
+    float: left;
 
 }
 
 a {
+    display: inline-block;
+    float: left;
 
 }
