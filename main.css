@@ -10,14 +10,19 @@ main {
 }
 
 img {
+    background-color: yellowgreen;
     display: inline-block;
     float: left;
+    width: 40%;
+    height: 400px;
 
 }
 
 div {
+    background-color: whitesmoke;
     display: inline-block;
     float: left;
+    width: 55%;
 
 }
 
