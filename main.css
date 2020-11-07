@@ -1,8 +1,9 @@
 body {
-    background-color: yellow;
+    background-color:white;
+    font-family: Arial;
 }
 main {
-    background-color: turquoise;
+
     display: inline-block;
     width: 900px;
     float: left;
@@ -12,8 +13,6 @@ main {
 }
 
 img {
-    background-color: yellowgreen;
-    
     float: left;
     width: 250px;
     height: 250px;
@@ -23,7 +22,6 @@ img {
 }
 
 div {
-    background-color: whitesmoke;
     display: inline-block;
     float: left;
     width: 45%;
@@ -76,6 +74,6 @@ a {
     padding-left: 17px;
     padding-right: 17px;
     border-radius: 3px;
-    margin-left: calc( (100% - 100px) / 2 );
+    margin-left: calc( (100% - 120px) / 2 );
 
 }
