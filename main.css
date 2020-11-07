@@ -13,8 +13,9 @@ img {
     background-color: yellowgreen;
     display: inline-block;
     float: left;
-    width: 40%;
-    height: 400px;
+    width: 35%;
+    height: 360px;
+    margin-top: 100px;
 
 }
 
