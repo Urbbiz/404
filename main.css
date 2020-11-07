@@ -31,6 +31,7 @@ div {
 }
 
 h1 {
+    color: #10BCF0;
     display: inline-block;
     float: left;
     font-size: 70px;
@@ -40,6 +41,7 @@ h1 {
 }
 
 h2 {
+    color: #333333;
     display: inline-block;
     float: left;
     font-size: 15px;
@@ -49,12 +51,15 @@ h2 {
 }
 
 p {
+    color: #CFCFCF;
     display: inline-block;
     float: left;
 
 }
 
+
 a {
+    background-color: #0C9448;
     display: inline-block;
     float: left;
 
