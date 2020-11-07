@@ -4,17 +4,19 @@ body {
 main {
     background-color: turquoise;
     display: inline-block;
-    width: cal( ( 100% - 1400px ) / 2);
+    width: 1000px;
     float: left;
+    margin-top: 50px;
+    margin-left: calc( ( 100% - 1000px ) / 2);
 
 }
 
 img {
     background-color: yellowgreen;
-    display: inline-block;
+    
     float: left;
-    width: 35%;
-    height: 360px;
+    width: 300px;
+    height: 300px;
     margin-top: 120px;
 
 }
@@ -31,12 +33,18 @@ div {
 h1 {
     display: inline-block;
     float: left;
+    font-size: 70px;
+    margin: 0;
+    margin-left: 200px;
 
 }
 
 h2 {
     display: inline-block;
     float: left;
+    font-size: 15px;
+    margin: 0;
+    margin-left: 180px;
 
 }
 
