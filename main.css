@@ -2,6 +2,8 @@ body {
     background-color: yellow;
 }
 main {
+    background-color: turquoise;
+    width: cal( ( 100% - 1400px ) / 2);
 
 }
 
@@ -26,5 +28,5 @@ p {
 }
 
 a {
-    
+
 }
